@@ -1,0 +1,65 @@
+Lesson 13 Rubric
+
+Weekly time invested in the creation of the program: 8 hrs.
+Total time in the project: approximately 20hrs.
+
+Description:
+This program addresses the real world problem of managing customer data in a business or organization (uses data from BYU capstone project - BUS180). It provides several features to add, search, display, edit, and delete customer records. By using this program, companies can efficiently organize and manipulate customer information, allowing them to provide better customer service, targeted marketing, and data analysis.
+
+Function names:
+
+read_csv(): Reads the contents of a CSV file and returns the headers and data as separate lists. It handles the file reading and exception handling.
+
+write_csv(): Writes the headers and data to a CSV file. It takes the file name, headers, and data as input and uses the `csv` module to write the data to the file.
+
+add_new_customer(): Adds a new customer to the data list. It prompts the user for input, validates the input, generates a new customer number, and returns the customer details as a list.
+
+delete_existing_customer(): Deletes an existing customer from the data list based on their name and customer number. It prompts the user for input, searches for the customer in the data list, removes the customer if found.
+
+search_customer(): Searches for a customer based on their name, customer number, or phone number. It prompts the user for input, searches the data list for matching customers, and displays the results.
+
+show_all_customers(): Displays all the customer records in a formatted manner. It takes the headers and data as input, retrieves the current date and time, and prints the customer details along with the total number of customers.
+
+edit_existing_customer(): Allows the user to edit an existing customer's details. It prompts the user for input, searches for the customer in the data list, displays their current details, prompts for the field to update, and updates the corresponding field.
+
+main(): Serves as the entry point of the program. It initializes the file name, reads the CSV file, and starts an infinite loop to present a menu of options to the user. It calls the relevant functions based on the user's choice.
+
+Test function names:
+
+test_write_csv: Checks if the write_csv function is able to write the supplied data to a CSV file and then reads the file to check if the data written matches the data read. If the headers and data match, a success message is printed.
+
+test_show_all_customers: Tests the show_all_customers function and simply calls it to display all customers in the output. It doesn't perform any specific verification in this case, but it can be useful for visualizing the data during testing.
+
+
+Description or list of the work that you finished on your program:
+
+I worked on the following features of the program:
+
+Add New Customers – The program allows users to add new customer details, ensuring that essential information such as name, address and contact details are entered correctly.
+Existing Customer Deletion – Users can delete customer records from the database, ensuring that outdated or incorrect information is removed from the system.
+Editing Existing Customers – The program allows users to update customer details such as name, age, gender, contact information, and address. This helps keep customer information up to date and accurate.
+Test_write_cvs_ checks if the write_csv function works correctly.
+I fix code errors that prevented the program from entering or displaying information without errors.
+
+Tested coding experiments:
+
+I fixed the add_new_customer function since when entering the customer it always entered the customer number incorrectly, it was because it was miscalculating the maximum number of customer_numbers.
+Use the parameter encoding='utf-8-sig' when opening the CSV file in the read_csv function to remove the garbage characters when printing the complete list of clients, try using the variables cleanline, strip() and split() without success and I found the utf parameter as a solution
+Fixed indentation issues in the main function that prevented the test from running
+Fixed bugs that prevented the test_write_csv function from passing the test was due to some syntax errors and errors when calling the write_cvs function in other functions.
+
+list of the documentation that you read, the videos that you watched:
+
+https://www.youtube.com/watch?v=gnnRHQ5oTrc
+https://www.youtube.com/shorts/LjXBaYCvlhY
+https://www.youtube.com/watch?v=qZDVIrxLF9g
+https://stackoverflow.com/questions/68566490/should-i-use-utf8-or-utf-8-sig-when-opening-a-file-to-read-in-python
+https://uniwebsidad.com/libros/python/capitulo-2/estructuras-de-control-de-flujo
+https://www.pythonaplicado.com/leer/capitulo-7/estructuras-de-control
+https://keepcoding.io/blog/funciona-modulo-csv-en-python/
+https://www.pythonaplicado.com/leer/capitulo-11/manipulacion-de-cadenas-de-texto
+https://programminghistorian.org/es/lecciones/manipular-cadenas-de-caracteres-en-python
+https://parzibyte.me/blog/2018/12/04/comprobar-correo-electronico-python/
+https://codingornot.com/08-python-validar-entradas-ejemplos
+https://www.youtube.com/watch?v=FYuIWn85RNk
+https://www.youtube.com/watch?v=yCakuL_ZRQc

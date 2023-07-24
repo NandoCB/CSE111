@@ -1,0 +1,30 @@
+1. Describe an experience you had this semester where you saw the power of functions.
+
+Once I understood how to make a function I saw how excellent they are since it happened to me many times in CSE 110
+that sometimes when writing code I had to write the same thing twice to get the same result. Today I see its power
+by understanding that I can create a function and call it as many times as I need without repeating code.
+
+2. In your judgment, what is the value of test functions?
+
+The value of testing features lies in their ability to help ensure that software behaves as intended and meets
+specified requirements, as they can detect bugs and issues before the software is deployed to production,
+reducing the probability of failure, also when making changes to the code base, re-running the test functions
+helps to detect any regressions (bugs or newly introduced problems that were not present before the changes).
+Ultimately they contribute to the reliability, maintainability and quality of the software, ensuring that it
+behaves as expected under various conditions and use cases.
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+Understand and clearly define what the problem is (identify the problem) or the unexpected behavior of the program.
+I do this by reviewing error messages, incorrect behavior, and any other clues that might provide insight into
+the problem.
+Reproducing the problem to make sure I understand its occurrence conditions (determining which actions or inputs
+are causing the problem and under what circumstances).
+You would analyze the code related to the problem to look for obvious errors, such as syntax or logic errors.
+If the code is large, you could break it into smaller parts and test them individually to identify the specific
+section of the code where the problem is.
+Find documentation and resources
+Once I identify the problem and understand the root cause, I would make the necessary modifications to the code
+to fix it. I would then run tests to make sure that the solution is effective and that there are no unwanted side
+effects in other parts of the program.

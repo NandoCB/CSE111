@@ -1,0 +1,28 @@
+Name,Customer Number,Age,Gender,E-mail,Address,Phone,Country,State,City,Zip Code
+Bystander,0,35,Male,w14.proyect_example@byu.edu,45 Programming with function st.,630-351-1941,Uruguay,Montevideo,Montevideo,45685
+Steven Cartwright,1,35,Male,w14.proyect_example@byu.edu,5008 Primrose Lane,630-351-1940,USA,Delaware,Wilmington,374190
+Valerie Mitchum,2,37,Female,w14.proyect_example@byu.edu,4788 New Street,630-351-1939,USA,New Jersey,Westfield,350529
+Clay Ludtke,3,39,Female,w14.proyect_example@byu.edu,4678 Laurel Lane,630-351-1938,USA,Iowa,Urbandale,326868
+Ted Butterfield,4,41,Male,w14.proyect_example@byu.edu,4568 Lakeview Drive,630-351-1937,USA,New York,Troy,303207
+Karen Daniels,5,43,Female,w14.proyect_example@byu.edu,4877 Heather Lane,630-351-1936,USA,Virginia,Springfield,279546
+Neil Knudson,6,45,Male,w14.proyect_example@byu.edu,4901 Harrison Street,630-351-1935,Uruguay,Montevideo,Montevideo,255885
+Max Jones,7,47,Male,w14.proyect_example@byu.edu,4908 Division Street,630-351-1934,USA,Washington,Seattle,232224
+Irene Maddox,8,49,Female,w14.proyect_example@byu.edu,4974 Beech Street,630-351-1933,USA,Washington,Seattle,208563
+Dave Kipp,9,51,Male,w14.proyect_example@byu.edu,5202 8th Street,630-351-1932,USA,Washington,Seattle,184903
+Dave Brooks,10,53,Male,w14.proyect_example@byu.edu,5233 7th Avenue,630-351-1931,USA,Washington,Seattle,161242
+Tamara Willingham,11,55,Female,w14.proyect_example@byu.edu,6946 Mill Road,630-351-1930,USA,Arizona,Scottsdale,137582
+Stephanie Phelps,12,57,Female,w14.proyect_example@byu.edu,7283 Dogwood Lane,630-351-1929,USA,California,San Jose,113921
+Zuschuss Donatelli,13,59,Male,w14.proyect_example@byu.edu,7644 College Street,630-351-1928,USA,California,San Francisco,90261
+Sally Hughsby,14,61,Female,w14.proyect_example@byu.edu,8186 5th Street North,630-351-1927,USA,California,San Francisco,68120
+Katherine Ducich,15,63,Female,w14.proyect_example@byu.edu,8926 4th Avenue,630-351-1926,USA,California,San Francisco,39901
+Duane Noonan,16,65,Male,w14.proyect_example@byu.edu,9190 13th Street,630-351-1925,Uruguay,Rivera,Tranqueras,20799
+Becky Martin,17,67,Female,w14.proyect_example@byu.edu,9898 Lake Street,630-351-1924,USA,Texas,San Antonio,20599
+Elpida Rittenbach,18,69,Female,w14.proyect_example@byu.edu,1131 Hillside Avenue,630-351-1923,USA,Minnesota,Saint Paul,20039
+Paul Gonzalez,19,71,Male,w14.proyect_example@byu.edu,1866 Brookside Drive,630-351-1922,USA,Minnesota,Rochester,20799
+Gary Zandusky,20,73,Male,w14.proyect_example@byu.edu,4852 6th Street West,630-351-1921,USA,Minnesota,Rochester,20042
+Gene Hale,21,75,Female,w14.proyect_example@byu.edu,4562 Woodland Drive,630-351-1920,USA,Texas,Richardson,20001
+Mary Zewe,22,77,Female,w14.proyect_example@byu.edu,4877 London Hill,630-351-1919,USA,California,Redlands,75502
+Roger Barcio,23,79,Male,w14.proyect_example@byu.edu,4901 Lake,630-351-1918,USA,Oregon,Portland,71601
+Troy Staebel,24,81,Male,w14.proyect_example@byu.edu,4908 Ninth St.,630-351-1917,USA,Arizona,Phoenix,35004
+A,25,15,Male,w14.proyect_example@byu.edu,4908 Ninth St.,630-351-1917,USA,Arizona,Phoenix,35004
+Prueba Smith,26,29,Male,prub_smith@byu.com,first av. 54,+1(809)456789,Uruguay,Montevideo,Montevideo,458547
